@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmetburakbaykal
 - 👀 I'm Mechanical Engineer but also interested in HTML, CSS, JavaScript
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React JS
 - 📫 You can contact me via mehmetburakbaykal1@gmail.com
 
 <!---
