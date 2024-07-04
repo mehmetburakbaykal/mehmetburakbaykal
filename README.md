@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Burak Baykal</h1>
-<h3 align="center">A mechanical engineer interested in Front-end Development.</h3>
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React Js and Vue Js**
+<h3 align="center">Front-end Developer</h3>
 
 - 📫 You can contact me via **mehmetburakbaykal1@gmail.com**
 
